@@ -120,3 +120,7 @@ This project is licensed under the MIT License.
 - This project was created as a college assignment
 - Icons provided by Material-UI
 - Date handling powered by date-fns
+
+
+  ![OUTPUT1](https://github.com/user-attachments/assets/e04e0ab6-2203-4c2d-b80c-f444242c7266)
+
